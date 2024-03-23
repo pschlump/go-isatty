@@ -1,5 +1,5 @@
-module github.com/mattn/go-isatty
+module github.com/pschlump/go-isatty
 
-go 1.15
+go 1.22.0
 
 require golang.org/x/sys v0.6.0
